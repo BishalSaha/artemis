@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3500281905",
+    "project_id": "join-artemis",
+    "storage_bucket": "join-artemis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3500281905:android:0c4ea7c635fc4f44670510",
+        "android_client_info": {
+          "package_name": "com.artemis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3500281905-bknb2srjt8sjt516k6cvd8pq9dvr0omj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIhpBrWncZIkY4ifEq0LJVOrzf04akCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3500281905-bknb2srjt8sjt516k6cvd8pq9dvr0omj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
